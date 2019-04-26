@@ -8,16 +8,7 @@ return [
         //FRONTEND URL
         'url' => 'http://localhost:8080',
 
-        //Mail smtp
-        'smtp' => [
-          'debug' => 0,
-          'host' => 'host39.checkdomain.de',
-          'auth' => 'true',
-          'username' => 'noreply@groe.me',
-          'password' => 'Ht_0hU9pl',
-          'secure' => 'tls',
-          'port' => 587,
-        ],
+        
 
         // Renderer settings
         'renderer' => [
