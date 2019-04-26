@@ -8,7 +8,7 @@ class Templates extends Mail
     {
         //button
         $button_params = [
-            'href' => "https://manage.groe.me/verification/{$token}",
+            'href' => "https://fdemo.groe.me/verification/{$token}",
             'button' => 'verifizieren',
         ];
 
